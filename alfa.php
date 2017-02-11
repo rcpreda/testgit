@@ -1,25 +1,11 @@
-
-kjdhsk
-alskdals
-a;skd;alsk
-as;dkas;
-as;dlka;sldk
+<?php 
 
 
+class Alfa {
 
-as.djkalks
+	protected $echo;
 
-;aslk;las
-
-
-a;slkd;laskd
-
-
-a;lkdfkl;ksd
-lsad
-;lkasdl;ak
-
-
-
-as;kdlaklsd;a
-
+	public function alfatest($echo) {
+		$this->echo = $echo;
+	}
+}

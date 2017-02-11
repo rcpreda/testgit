@@ -1,5 +1,7 @@
 <?php 
 
+//text on the top of the file 
+
 class Foobar {
 
 	public function __construct() {
@@ -7,4 +9,7 @@ class Foobar {
 	}
 
 }
+
+
+//text on the bottom of the file
   
